@@ -2,6 +2,11 @@
 
 ## 程式所在位置 ： D:\RaspberryPi\GMT_Client_Command\
 
+## 編譯工具下載：
+- CMake ： https://cmake.org/download/   下載 Binary distributions: 的 Windows x64 Installer: 下載完成後安裝。
+
+- Visual Studio 工具 ：  https://visualstudio.microsoft.com/zh-hant/downloads/   網頁往下捲動，看到 『Visual Studio 工具 』 選擇 『適用於 Visual Studio 2026 的建置工具 』 按下 『下載』。 下載完成後，執行安裝。 安裝完成後會生成 編譯視窗，很像 一般 Terminal 視窗，編譯必須在此視窗內執行。 安裝完成後，可以從 Windows 開始 找到 Visual Studio 資料夾，點擊打開，就會出現 『Develop Powershell for VS』 視窗。
+
 ## 編譯方式 
 
 ```text
