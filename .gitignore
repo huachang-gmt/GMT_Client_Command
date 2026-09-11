@@ -1,0 +1,46 @@
+# CMake build directory
+build/
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+
+# Visual Studio generated build files
+*.vcxproj
+*.vcxproj.filters
+*.sln
+
+# Compiled binaries
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.lib
+
+# Debug / Release output
+Debug/
+Release/
+x64/
+x86/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+*.tmp
+*.log
+
+# OS generated files
+Thumbs.db
+Desktop.ini
